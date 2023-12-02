@@ -1,6 +1,6 @@
 hi
 
-idk what im doing here
+[idk what im doing here](https://www.youtube.com/channel/UCIXmSFytM4aJfGicNe1ROUQ)
 
 <!--
 ### Hi there 👋
