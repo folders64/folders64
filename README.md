@@ -1,12 +1,12 @@
 hi
-
-[idk what im doing here](https://www.youtube.com/channel/UCIXmSFytM4aJfGicNe1ROUQ)
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/0-profile-details.svg)
 
 <!--
 ### Hi there 👋
 
 
 **folders64/folders64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[idk what im doing here](https://www.youtube.com/channel/UCIXmSFytM4aJfGicNe1ROUQ)
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
