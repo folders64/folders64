@@ -1,10 +1,13 @@
-hi
+![](images/output%20(Large).gif)
+
 
 <!--
 ### Hi there 👋
 
 
-**folders64/folders64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**folders64/folders64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+
+hi
 [idk what im doing here](https://www.youtube.com/channel/UCIXmSFytM4aJfGicNe1ROUQ)
 
 Here are some ideas to get you started:
