@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
-    <img src="images/shell32XP/.rsrc/ICON/119.ico" width="5%" alt="winxp personal computer icon"/>
+    <img src="images/shell32XP/.rsrc/ICON/119.ico" width="15%" alt="winxp personal computer icon"/>
   </a>
     &nbsp;
 
