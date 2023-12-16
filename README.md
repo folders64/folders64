@@ -1,15 +1,9 @@
 <img src="images/output.gif" width="100%" />
 
-<div align="left">
-  <img src="images/shell32XP/.rsrc/ICON/119.ico" />
-</div>
-
 <div align="center">
+  <img src="images/shell32XP/.rsrc/ICON/119.ico" />
   <img src="images/shell32XP/.rsrc/ICON/309.ico" /> 
   <img src="images/shell32XP/.rsrc/ICON/836.ico" />
-</div>
-
-<div align="right">
   <img src="images/shell32XP/.rsrc/ICON/273.ico" />
 </div>
 
