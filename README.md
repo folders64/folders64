@@ -3,7 +3,7 @@
 <p float="left">
   <img src="images/shell32XP/.rsrc/ICON/119.ico" style="margin-right: 50px;" />
   <img src="images/shell32XP/.rsrc/ICON/309.ico" style="margin-right: 50px;" /> 
-  <img src="images/shell32XP/.rsrc/ICON/836.ico" style="margin-right: 50px;" />
+  <img src="images/shell32XP/.rsrc/ICON/836.ico" align="left" />
   <img src="images/shell32XP/.rsrc/ICON/273.ico" />
 </p>
 
