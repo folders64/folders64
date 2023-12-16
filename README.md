@@ -1,16 +1,10 @@
 <img src="images/output.gif" width="100%" />
 
-<div align="center">
+<div align="right">
   <img src="images/shell32XP/.rsrc/ICON/119.ico" />
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
+</div>
 
+<div align="center">
   <img src="images/shell32XP/.rsrc/ICON/309.ico" /> 
     &nbsp;
     &nbsp;
@@ -22,15 +16,9 @@
     &nbsp;
 
   <img src="images/shell32XP/.rsrc/ICON/836.ico" />
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
+</div>
 
+<div align="right">
   <img src="images/shell32XP/.rsrc/ICON/273.ico" />
 </div>
 
