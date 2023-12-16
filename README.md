@@ -1,19 +1,19 @@
 <img src="images/output.gif" width="100%" />
 
 <div align="center">
-  <a href="your-link-1.html">
+  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
     <img src="images/shell32XP/.rsrc/ICON/119.ico" />
   </a>
 
-  <a href="your-link-2">
+  <a href="https://soundcloud.com/f2f2f2">
     <img src="images/shell32XP/.rsrc/ICON/309.ico" />
   </a>
 
-  <a href="your-link-3">
+  <a href="https://www.youtube.com/channel/UCIXmSFytM4aJfGicNe1ROUQ">
     <img src="images/shell32XP/.rsrc/ICON/836.ico" />
   </a>
 
-  <a href="your-link-4">
+  <a href="https://www.instagram.com/r2.nef/">
     <img src="images/shell32XP/.rsrc/ICON/273.ico" />
   </a>
 </div>
