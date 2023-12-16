@@ -1,10 +1,3 @@
-<style>
-img {
-    width: 100%;
-    height: auto;
-}
-</style>
-
 ![](images/output.gif)
 
 
