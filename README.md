@@ -1,10 +1,10 @@
 <img src="images/output.gif" width="100%" />
 
-  <img src="images/shell32XP/.rsrc/BITMAP/137.bmp" width="100%" />
+<img src="images/shell32XP/.rsrc/BITMAP/137.bmp" width="100%" height="5px" />
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
-    <img src="images/shell32XP/.rsrc/ICON/119.ico" width="6.5%" alt="winxp personal computer icon"/>
+    <img src="images/shell32XP/.rsrc/ICON/119.ico" alt="winxp personal computer icon"/>
   </a>
     &nbsp;
 
