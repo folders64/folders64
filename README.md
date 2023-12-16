@@ -1,7 +1,6 @@
 <img src="images/output.gif" width="100%" />
 
 | | | | |
-|:---|:---:|:---:|---:|
 | <img src="images/shell32XP/.rsrc/ICON/119.ico" /> | <img src="images/shell32XP/.rsrc/ICON/309.ico" /> | <img src="images/shell32XP/.rsrc/ICON/836.ico" /> | <img src="images/shell32XP/.rsrc/ICON/273.ico" /> |
 
 <!--
