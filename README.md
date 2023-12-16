@@ -1,13 +1,13 @@
 <img src="images/output.gif" width="100%" />
 
 <div align="center">
-  <img src="images/shell32XP/.rsrc/ICON/119.ico" width="24%" />
+  <img src="images/shell32XP/.rsrc/ICON/119.ico" />
   &nbsp;
-  <img src="images/shell32XP/.rsrc/ICON/309.ico" width="24%" /> 
+  <img src="images/shell32XP/.rsrc/ICON/309.ico" /> 
   &nbsp;
-  <img src="images/shell32XP/.rsrc/ICON/836.ico" width="24%" />
+  <img src="images/shell32XP/.rsrc/ICON/836.ico" />
   &nbsp;
-  <img src="images/shell32XP/.rsrc/ICON/273.ico" width="24%" />
+  <img src="images/shell32XP/.rsrc/ICON/273.ico" />
 </div>
 
 <!--
