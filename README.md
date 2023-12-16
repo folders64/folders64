@@ -1,7 +1,7 @@
 <img src="images/output.gif" width="100%" />
 
 <div align="center">
-  <img src="images/d5ec61d7cf3ab6f07e1351ce7d0c5cc1.jpg" alt="Footer Image" width="100%" height="10%"/>
+  <img src="images/d5ec61d7cf3ab6f07e1351ce7d0c5cc1.jpg" alt="Footer Image" width="100%" height="40px"/>
 
 </div>
 
