@@ -1,4 +1,12 @@
-<img src="images/output.gif" width="100%" />
+<style>
+img {
+    width: 100%;
+    height: auto;
+}
+</style>
+
+![](images/output.gif)
+
 
 <!--
 ### Hi there 👋
