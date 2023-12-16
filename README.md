@@ -1,4 +1,4 @@
-![](images/output%20(Large).gif)
+![](images/output.gif)
 
 
 <!--
