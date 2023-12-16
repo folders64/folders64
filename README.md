@@ -6,14 +6,26 @@
     &nbsp;
     &nbsp;
     &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
 
   <img src="images/shell32XP/.rsrc/ICON/309.ico" /> 
     &nbsp;
     &nbsp;
     &nbsp;
     &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
 
   <img src="images/shell32XP/.rsrc/ICON/836.ico" />
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
     &nbsp;
     &nbsp;
     &nbsp;
