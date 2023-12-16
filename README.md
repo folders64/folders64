@@ -1,9 +1,9 @@
 <img src="images/output.gif" width="100%" />
 
 <div align="center">
-  <img src="images/shell32XP/.rsrc/ICON/119.ico" style="margin-right: 50px;" />
-  <img src="images/shell32XP/.rsrc/ICON/309.ico" style="margin-right: 50px;" /> 
-  <img src="images/shell32XP/.rsrc/ICON/836.ico" style="margin-right: 50px;" />
+  <img src="images/shell32XP/.rsrc/ICON/119.ico" style="margin-right: 150px;" />
+  <img src="images/shell32XP/.rsrc/ICON/309.ico" style="margin-right: 150px;" /> 
+  <img src="images/shell32XP/.rsrc/ICON/836.ico" style="margin-right: 150px;" />
   <img src="images/shell32XP/.rsrc/ICON/273.ico" />
 </div>
 
