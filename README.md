@@ -4,7 +4,7 @@
   <img src="images/shell32XP/.rsrc/ICON/119.ico" />
   <img src="images/shell32XP/.rsrc/ICON/309.ico" /> 
   <img src="images/shell32XP/.rsrc/ICON/836.ico" />
-  <img src="images/shell32XP/.rsrc/ICON/237.ico" />
+  <img src="images/shell32XP/.rsrc/ICON/273.ico" />
 </p>
 
 <!--
