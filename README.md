@@ -1,13 +1,21 @@
 <img src="images/output.gif" width="100%" />
 
 <div align="center">
-  <img src="images/shell32XP/.rsrc/ICON/119.ico" />
+  <a href="your-link-1.html">
+    <img src="images/shell32XP/.rsrc/ICON/119.ico" />
+  </a>
 
-  <img src="images/shell32XP/.rsrc/ICON/309.ico" />
+  <a href="your-link-2">
+    <img src="images/shell32XP/.rsrc/ICON/309.ico" />
+  </a>
 
-  <img src="images/shell32XP/.rsrc/ICON/836.ico" />
+  <a href="your-link-3">
+    <img src="images/shell32XP/.rsrc/ICON/836.ico" />
+  </a>
 
-  <img src="images/shell32XP/.rsrc/ICON/273.ico" />
+  <a href="your-link-4">
+    <img src="images/shell32XP/.rsrc/ICON/273.ico" />
+  </a>
 </div>
 
 <!--
