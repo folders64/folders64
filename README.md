@@ -1,4 +1,4 @@
-<img src="images/output.gif" width="100%" height="50px" />
+<img src="images/output.gif" width="100%" height="400px" />
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
