@@ -18,8 +18,24 @@
     &nbsp;
     &nbsp;
     &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
 
   <img src="images/shell32XP/.rsrc/ICON/309.ico" />
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
     &nbsp;
     &nbsp;
     &nbsp;
@@ -54,11 +70,21 @@
     &nbsp;
     &nbsp;
     &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
 
   <img src="images/shell32XP/.rsrc/ICON/273.ico" />
 </div>
 
 <!--
+i dont think this is how this works
+
 ### Hi there 👋
 
 
