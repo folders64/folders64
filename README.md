@@ -1,5 +1,5 @@
 <img src="images/output.gif" width="100%" />
-
+<div>
 <div align="right">
   <img src="images/shell32XP/.rsrc/ICON/119.ico" />
 </div>
@@ -21,7 +21,7 @@
 <div align="right">
   <img src="images/shell32XP/.rsrc/ICON/273.ico" />
 </div>
-
+</div>
 <!--
 ### Hi there 👋
 
