@@ -4,14 +4,17 @@
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
     <img src="images/shell32XP/.rsrc/ICON/119.ico" alt="winxp personal computer icon"/>
   </a>
+    &nbsp;
 
   <a href="https://soundcloud.com/f2f2f2">
     <img src="images/shell32XP/.rsrc/ICON/309.ico" alt="winxp music disk icon"/>
   </a>
+    &nbsp;
 
   <a href="https://www.youtube.com/channel/UCIXmSFytM4aJfGicNe1ROUQ">
     <img src="images/shell32XP/.rsrc/ICON/836.ico" alt="winxp butterfly icon"/>
   </a>
+    &nbsp;
 
   <a href="https://www.instagram.com/r2.nef/">
     <img src="images/shell32XP/.rsrc/ICON/273.ico" alt="winxp recycle bin icon"/>
