@@ -1,9 +1,11 @@
 <img src="images/output.gif" width="100%" />
 
-<div align="center">
-  <img src="images/d5ec61d7cf3ab6f07e1351ce7d0c5cc1.jpg" alt="Footer Image" width="100%" height="40px"/>
-
-</div>
+<p float="left">
+  <img src="images/shell32XP/.rsrc/ICON/119.ico" width="24%" />
+  <img src="images/shell32XP/.rsrc/ICON/309.ico" width="24%" /> 
+  <img src="images/shell32XP/.rsrc/ICON/836.ico" width="24%" />
+  <img src="images/shell32XP/.rsrc/ICON/237.ico" width="24%" />
+</p>
 
 <!--
 ### Hi there 👋
@@ -23,12 +25,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-  <h3>Footer Title</h3>
-  <p>
-    <a href="your-link-1">Link 1</a> |
-    <a href="your-link-2">Link 2</a> |
-    <a href="your-link-3">Link 3</a>
-  </p>
-
 -->
