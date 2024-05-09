@@ -6,7 +6,7 @@
   </a>
     &nbsp;
 
-  <a href="https://soundcloud.com/f2f2f2">
+  <a href="https://open.spotify.com/artist/5Ktm4HDl6ndIzfzxijN5Eo?si=_IG6leQ7TFycdHybIXELnA">
     <img src="images/shell32XP/.rsrc/ICON/309.ico" alt="winxp music disk icon"/>
   </a>
     &nbsp;
